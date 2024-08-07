@@ -182,7 +182,7 @@ const Dashboard = () => {
             
 
             <aside className="flex flex-col w-64 min-h-screen px-4 py-8 overflow-y-auto bg-white border-r rtl:border-r-0 rtl:border-l dark:bg-gray-900 dark:border-gray-700">
-                <h2 className="text-2xl font-semibold text-white">Dashboard</h2>
+                <h2 className="text-2xl font-semibold text-black dark:text-white">Dashboard</h2>
 
                 <div className="relative mt-6">
                     <span className="absolute inset-y-0 left-0 flex items-center pl-3">
